@@ -1,0 +1,9 @@
+https://www.dropbox.com/scl/fi/3xtcys44hh8abfcx1n4x0/Microsoft.AV1VideoExtension_1.2.931.0_neutral_-_8wekyb3d8bbwe.AppxBundle?rlkey=ldbqw1adauyt8swy4fjafhuxo&st=g2k2b61x&dl=1
+https://www.dropbox.com/scl/fi/03f3jaj8440u0ba4r7a15/Microsoft.HEIFImageExtension_1.1.861.0_neutral_-_8wekyb3d8bbwe.AppxBundle?rlkey=b6rnakqinijp8hkle6so0lpo6&st=8h0fa6j4&dl=1
+https://www.dropbox.com/scl/fi/w7b0nqcwy2ra19r1bozx6/Microsoft.HEVCVideoExtension_2.1.1161.0_neutral_-_8wekyb3d8bbwe.AppxBundle?rlkey=b2gtud507lce7u8q12iw8asvu&st=z240tmfh&dl=1
+https://www.dropbox.com/scl/fi/5816yglr6nz0lnpc2slhm/Microsoft.MPEG2VideoExtension_1.0.61931.0_neutral_-_8wekyb3d8bbwe.AppxBundle?rlkey=tr4awkaj4sbg5hrovgcidsa01&st=qb804aul&dl=1
+https://www.dropbox.com/scl/fi/7504ogb81sgt8t6gxvm2h/Microsoft.RawImageExtension_2.2.1222.0_neutral_-_8wekyb3d8bbwe.AppxBundle?rlkey=d5qxm5zyxe5f8wvoqupn0g42y&st=ebyr61mk&dl=1
+https://www.dropbox.com/scl/fi/cvi381hr4sfo4p93nkhwm/Microsoft.VCLibs.140.00_14.0.33519.0_x64__8wekyb3d8bbwe.Appx?rlkey=sa6ha6sr1jc7gd0roh7r9s8nw&st=8gels3xh&dl=1
+https://www.dropbox.com/scl/fi/yghd1hhbv7qsq7gn9wxpg/Microsoft.VP9VideoExtensions_1.1.451.0_neutral_-_8wekyb3d8bbwe.AppxBundle?rlkey=253wmu0g1xi276ucbe8khv0ec&st=dnlixr8t&dl=1
+https://www.dropbox.com/scl/fi/vdz4g5bmkdf7gsoxcldaq/Microsoft.WebMediaExtensions_1.1.1295.0_neutral_-_8wekyb3d8bbwe.AppxBundle?rlkey=3j5sgd7uxorywn9y8n2aq00c0&st=9hq2msze&dl=1
+https://www.dropbox.com/scl/fi/3kvn1xk2p9znkwmt4o0n2/Microsoft.WebpImageExtension_1.1.1221.0_neutral_-_8wekyb3d8bbwe.AppxBundle?rlkey=a34vh0fx0dyb6btsk1ycjqkbz&st=x4q0m4lk&dl=1

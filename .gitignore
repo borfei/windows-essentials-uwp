@@ -1,0 +1,11 @@
+# Windows executables
+*.exe
+*.dll
+
+# Temporary directory
+temp/
+
+# AppX / AppXBundle / MsixBundle files
+.appx
+.appxbundle
+.msixbundle

@@ -1,0 +1,10 @@
+Microsoft.NET.Native.Framework.2.2_2.2.29512.0_x64__8wekyb3d8bbwe.Appx
+Microsoft.NET.Native.Runtime.2.2_2.2.28604.0_x64__8wekyb3d8bbwe.Appx
+Microsoft.UI.Xaml.2.3_2.32002.13001.0_x64__8wekyb3d8bbwe.Appx
+Microsoft.UI.Xaml.2.7_7.2208.15002.0_x64__8wekyb3d8bbwe.Appx
+Microsoft.VCLibs.140.00_14.0.33519.0_x64__8wekyb3d8bbwe.Appx
+Microsoft.WindowsAppRuntime.1.3_3000.934.1904.0_x64__8wekyb3d8bbwe.Msix
+Microsoft.WindowsAlarms_2022.2401.9.0_neutral_~_8wekyb3d8bbwe.MsixBundle
+Microsoft.WindowsCalculator_2021.2403.6.0_neutral_~_8wekyb3d8bbwe.Msixbundle
+Microsoft.WindowsMaps_2022.2403.4.0_neutral_~_8wekyb3d8bbwe.Msixbundle
+Microsoft.WindowsSoundRecorder_2021.2103.28.0_neutral_~_8wekyb3d8bbwe.AppxBundle

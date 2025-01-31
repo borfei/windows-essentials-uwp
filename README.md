@@ -1,7 +1,7 @@
-![Windows Essentials UWP](docs/logo.png)
+<picture>
+  <img width="500px" alt="Windows Essentials UWP" src="docs/logo.png">
+</picture>
 
-Windows Essentials UWP
----
 UWP packages for essential apps, also includes codecs.
 
 ## Installation

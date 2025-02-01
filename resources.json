@@ -1,7 +1,6 @@
 {
     "Microsoft.VCLibs.140.00": {
         "Group": "MediaFoundationCodec",
-        "IsDependency": true,
         "DownloadLink": "https://www.dropbox.com/scl/fi/cvi381hr4sfo4p93nkhwm/Microsoft.VCLibs.140.00_14.0.33519.0_x64__8wekyb3d8bbwe.Appx?rlkey=sa6ha6sr1jc7gd0roh7r9s8nw&st=8gels3xh&dl=1",
         "LocalFilename": "Microsoft.VCLibs.140.00_14.0.33519.0_x64__8wekyb3d8bbwe.Appx"
     },

@@ -1,2 +1,0 @@
-Microsoft.VCLibs.x64.14.00.Desktop.Appx
-Microsoft.UI.Xaml.2.8.Appx

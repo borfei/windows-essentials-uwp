@@ -1,9 +1,0 @@
-Microsoft.VCLibs.140.00_14.0.33519.0_x64__8wekyb3d8bbwe.Appx
-Microsoft.AV1VideoExtension_1.2.931.0_neutral_~_8wekyb3d8bbwe.AppxBundle
-Microsoft.HEIFImageExtension_1.1.861.0_neutral_~_8wekyb3d8bbwe.AppxBundle
-Microsoft.RawImageExtension_2.2.1222.0_neutral_~_8wekyb3d8bbwe.AppxBundle
-Microsoft.WebpImageExtension_1.1.1221.0_neutral_~_8wekyb3d8bbwe.AppxBundle
-Microsoft.HEVCVideoExtension_2.1.1161.0_neutral_~_8wekyb3d8bbwe.AppxBundle
-Microsoft.MPEG2VideoExtension_1.0.61931.0_neutral_~_8wekyb3d8bbwe.AppxBundle
-Microsoft.VP9VideoExtensions_1.1.451.0_neutral_~_8wekyb3d8bbwe.AppxBundle
-Microsoft.WebMediaExtensions_1.1.1295.0_neutral_~_8wekyb3d8bbwe.AppxBundle

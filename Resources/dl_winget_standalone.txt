@@ -1,3 +1,0 @@
-https://www.dropbox.com/scl/fi/owiiwijou0sfi0smyjj5r/Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle?rlkey=s90z5puspi4hywdux3fcywq2p&st=8oz87k0j&dl=1
-https://www.dropbox.com/scl/fi/cow9z41610n2qhwumz75i/Microsoft.UI.Xaml.2.8.appx?rlkey=azu86e1gqp3pxzxwqvtf3ex10&st=cx84sjap&dl=1
-https://www.dropbox.com/scl/fi/8kwnwi7c3i707xir57idf/Microsoft.VCLibs.x64.14.00.Desktop.appx?rlkey=4ep9yiq5679eptjcel6fr4wtb&st=ojq42sdt&dl=1
